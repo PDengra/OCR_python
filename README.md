@@ -1,4 +1,4 @@
-🚀 Automatizando la gestión de PDFs con OCR en Python
+🚀 Automatizando la gestión de PDFs con OCR en Python y BAT
 
 Hoy quiero compartir un proyecto que desarrollé para optimizar el procesamiento de documentos: un sistema de OCR automatizado que monitorea una carpeta, detecta PDFs nuevos, extrae texto de campos específicos y los organiza automáticamente.
 
@@ -10,12 +10,18 @@ Interfaz gráfica para definir plantillas de campos, adaptable a distintos forma
 
 Sistema de vigilancia con Watchdog para procesar PDFs automáticamente al ser añadidos.
 
-Implementación como servicio de Windows, para que el OCR funcione en segundo plano y se ejecute al iniciar el sistema.
+Automatización completa en Windows mediante scripts BAT:
+
+Instalación automática de dependencias.
+
+Creación de carpetas y organización de archivos.
+
+Configuración de ejecución en segundo plano y autoinicio al iniciar sesión del usuario.
 
 Renombrado automático de archivos según contenido extraído, ahorrando tiempo y reduciendo errores manuales.
 
-Este tipo de automatización es un ejemplo práctico de cómo Python + OCR + scripts de automatización pueden transformar procesos administrativos, liberando tiempo y mejorando la eficiencia en cualquier empresa que maneje grandes volúmenes de documentos.
+Este tipo de automatización demuestra cómo Python + OCR + scripts de BAT pueden transformar procesos administrativos, liberando tiempo y mejorando la eficiencia en cualquier empresa que maneje grandes volúmenes de documentos.
 
-🔧 Tecnologías usadas: Python, EasyOCR, PyMuPDF, Watchdog, OpenCV, Tkinter, BAT scripting.
+🔧 Tecnologías usadas: Python, EasyOCR, PyMuPDF, Watchdog, OpenCV, Tkinter, BAT scripting, automatización de Windows.
 
-#Python #OCR #Automatización #TransformaciónDigital #Innovación #InteligenciaArtificial #Productividad #ProcesamientoDeDocumentos #PyMuPDF #EasyOCR #DesarrolloSoftware
+#Python #OCR #Automatización #TransformaciónDigital #Innovación #InteligenciaArtificial #Productividad #ProcesamientoDeDocumentos #PyMuPDF #EasyOCR #Windows #BAT #DesarrolloSoftware
